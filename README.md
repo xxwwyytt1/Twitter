@@ -8,11 +8,11 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User sees app icon in home screen and# Twitter - Part I
+- [x] User sees app icon in home screen and# Twitter - Part I
 
 This is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -33,4 +33,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/xKVwjLZ60H.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> styled launch screen. (1pt)
+<img src='http://g.recordit.co/xKVwjLZ60H.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
